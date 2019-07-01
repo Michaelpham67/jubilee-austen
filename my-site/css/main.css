@@ -11,13 +11,15 @@ font-family: 'Source Sans Pro', sans-serif;
 
 */
 
+/* Adding a Comment in this CSS file to display the branches and isolated changes */
+
 body {
-    /*border: 1px solid purple;
+    /*border: 1px solid purple;*/
     background-color: #ffffff;
     height: auto;
     /*height: 2600px;*/
     overflow: auto;
-    width: auto;*/
+    width: auto;
     
 }
 

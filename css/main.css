@@ -32,7 +32,7 @@ main {
 /* HEADER AREA */
 
 #header1 {
-    background: url('../img/header-background.png') repeat;
+    background: url('../img/hero.png') repeat;
     background-size: cover;
     background-position: right bottom;
     /*border: 1px solid purple;*/
@@ -63,6 +63,12 @@ main {
 
 #header-halfwidth2 ul li a{
     color: #BBC085;
+    text-decoration: none;
+    
+}
+
+#header-halfwidth2 ul li a:hover{
+    color: #93974e;
     text-decoration: none;
     
 }
@@ -125,7 +131,7 @@ nav{
 nav ul li a {
     text-transform: uppercase;
     text-decoration: none;
-    font-size: 18px;
+    font-size: 23px;
     
 }
 
@@ -311,8 +317,15 @@ nav ul li a {
 
 }
 
-a:link{
+#contact a:link{
     color: #C49075;
+    font-size: 22px;
+    text-decoration: none;
+    
+}
+
+#contact a:hover{
+    color: #b3704d;
     font-size: 22px;
     text-decoration: none;
     
